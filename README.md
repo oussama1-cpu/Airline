@@ -27,10 +27,11 @@ this is example ;[Documentation](https://www.tunisair.com/site/publish/content/d
 
 
 
-### idea and Technologie selection
+### idea
 It is a project in the study, applying what we have learned;
+### technologie 
 I used:
     -java
 
-![Alt text](assets/seif.png)
+
 
